@@ -20,3 +20,10 @@ the API functions that it provides.
 This repository contains the files required for the plugin, and the tools to wrap the files up into
 an installable zip file. It may be that the whole repository can be zipped to create an installable
 module with no further tools to reorganise the files, but I've not got far enough to test that yet.
+
+## TODO ##
+
+* Ability to login using email or username (currently just primary or any email).
+* Create custom fields on Contacts.#
+* Admin functionality to manually set a password for a Contact. This may be helped
+  by moving some of the API utility code to a central module, to help with a DRY approach.
