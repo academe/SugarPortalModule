@@ -14,3 +14,9 @@ and to store encrytped passwords against the Contacts.
 
 This module is developed against SugarCRM 6.5 CE, and the Academe/SugarRestApi library will support
 the API functions that it provides.
+
+## Repository Organisation ##
+
+This repository contains the files required for the plugin, and the tools to wrap the files up into
+an installable zip file. It may be that the whole repository can be zipped to create an installable
+module with no further tools to reorganise the files, but I've not got far enough to test that yet.
